@@ -11,7 +11,7 @@ Hangman game developed in C language for a Computer Science first semester proje
 Compile the program:
 
 ```bash
-gcc forca.c -o forca
+gcc hangmanGame.c -o forca
 ```
 
 Run the program:
